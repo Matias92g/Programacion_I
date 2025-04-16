@@ -1,4 +1,14 @@
-Repositorio Creado para la entrega de Trabajos prácticos de la Materia PROGRAMACIÓN I
+💻 Programación 1
+Tecnicatura Universitaria en Programación
+📍 Universidad Tecnológica Nacional
 
-Alumno: 
-    Matias Ezequiel Gonzalez
+✨ Estudiante
+Nombre: Matias Ezequiel Gonzalez
+Comisión: M2025-15
+📂 Descripción del Repositorio
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
+
+📌 Estructura del repositorio:
+
+Cada trabajo está organizado en carpetas individuales.
+Los archivos de código fuente (.py) incluyen comentarios y estructura adecuada.
